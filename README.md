@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Babu</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 - 🔭 I’m currently working on **full-stack projects using the React library on the front end and Spring Boot and Django Rest on the back end.**
 
