@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **full-stack projects using the React library on the front end and Spring Boot and Django Rest on the back end.**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Deployment**
 
-- 👯 I’m looking to collaborate on **collaborate on Open Source and IoT projects.**
+- 👯 I’m looking to **collaborate on Open Source and IoT projects.**
 
 - 💬 Ask me about **React,Spring Boot,Django**
 
